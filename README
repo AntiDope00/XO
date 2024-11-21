@@ -1,6 +1,8 @@
 
 Tic-Tac-Toe game 
 
+
+
 To run program:
     run the following commands in terminal (excluding the number and parenthesis)
     1) make
@@ -9,3 +11,6 @@ To run program:
 In Version 2:
     Will implement the UNDO move menu option
     Will implement GUI 
+
+For use of program read under:
+    LISCENCE
