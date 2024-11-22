@@ -11,10 +11,9 @@ To run program:
 Version 1:
  Currently have no way to validate draws (bug)
 
-In Version 2:(in devlopment)
-    Will implement the UNDO move menu option
-    WIll impelment DISPLAY LAST GAMES functionality  
-    Will implement GUI 
+In Version 2:
+    fixed draw bug
+    list last 3 games results
 
 For use of program read under:
     LISCENCE
