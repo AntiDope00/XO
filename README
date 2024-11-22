@@ -8,7 +8,12 @@ To run program:
     1) make
     2) ./game
 
-In Version 2:
+* IF draww, restart program (bug)
+
+Updated Version 2:
+    Able to Load Previous 3 Games;
+    Currently have no way to validate draws
+In Version 2.5:
     Will implement the UNDO move menu option
     Will implement GUI 
 
