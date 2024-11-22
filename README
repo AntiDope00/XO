@@ -9,9 +9,9 @@ To run program:
     2) ./game
 
 Version 1:
- Currently have no way to validate draws
+ Currently have no way to validate draws (bug)
 
-In Version 2:
+In Version 2:(in devlopment)
     Will implement the UNDO move menu option
     WIll impelment DISPLAY LAST GAMES functionality  
     Will implement GUI 
